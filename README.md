@@ -11,7 +11,7 @@ This project collects and displays real-time price data for selected stocks and 
 First, clone the repository to your local machine using the following command:
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/gauri004/fomo-factory
 ```
 
 Navigate to the project directory:

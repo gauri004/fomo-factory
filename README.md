@@ -53,6 +53,7 @@ The application should now be running at `http://localhost:3000`.
 - Data stored in MongoDB.
 - Dynamic table updating with new data.
 - Crypto selector.
+- Used CRON Jobs to hit the backend API (present under `/api/crypto/poll`) to refresh the data after every 1 minute
 
 ## Technologies Used
 
